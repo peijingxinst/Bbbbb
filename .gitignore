@@ -4,7 +4,14 @@
 /.idea/workspace.xml
 /.idea/libraries
 /.idea
-/app/build
+app/build
 .DS_Store
 /build
 /captures
+app/libs/
+app/src/androidTest/
+app/src/main/res/drawable/
+fragment01/libs/
+fragment01/src/androidTest/
+fragment01/src/main/res/drawable/
+fragment01/src/test/
